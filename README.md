@@ -21,9 +21,8 @@ Projet pratique  consacré à l’installation et à la configuration de service
 
 ## Documentation détaillée
 
-Le [manuel illustré](documentation/manuel-illustre.md) présente les captures du TP dans l’ordre, chacune accompagnée d’une explication technique.
 
-Le rapport PDF d’origine est disponible dans [`documentation/rapport-original-TP5.pdf`](documentation/rapport-original-TP5.pdf).
+Le rapport PDF d’origine est disponible dans [`documentation/rapport-original.pdf`](rapport-TP.pdf).
 
 
 
